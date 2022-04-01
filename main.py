@@ -1,6 +1,6 @@
 # 31-march-2022
 
-# Make a script that gets phrases from json and sends back the 5 most simular
+# Make a script that gets phrases from json and sends back the 5 most similar
 
 import tensorflow as tf
 import tensorflow_hub as hub
